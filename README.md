@@ -1,6 +1,8 @@
 # SNHU-CS230
 SNHU CS-230
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+
     Draw it or Lose it is an android based game developed by The Game Room. The current design allows for players to play against each other competing to guess an image that is being rendered over 30 seconds. 
     The Game Room has asked Creative Technology Solutions (CTS) to design and integrate their game onto multiple platforms to include desktop (iOS, Windows) and iPhone. 
     In meeting with The Game Room, requirements were established as: 
